@@ -15,3 +15,6 @@ Description: A free economy ui plugin for displaying you economy balance
 
 ## Permissions
 - Feli.EconomyUI:commands.economyui: Grants access to the EconomyUI.Commands.EconomyUICommand command.
+
+## WorkshopMod
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2499989098
