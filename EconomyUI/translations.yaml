@@ -1,0 +1,7 @@
+UI:
+  BalanceFormat: "${Money}"
+  
+EconomyUICommand:
+  CorrectUsage: "Usage: /economyui <on|off|move>"
+  OnSuccessfully: "Successfully turned on the ui"
+  OffSuccessfully: "Successfully turned off the ui"
