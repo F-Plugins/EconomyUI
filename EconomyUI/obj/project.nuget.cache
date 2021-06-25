@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GYr6nKHUK4gBZpWQfINZOmSxT1NlbOgpvoN+pGXgMyYL2cKG43qhaZ+cVuB882JBR8s5qA4VNPlc4cs8OB+J3A==",
+  "dgSpecHash": "QfoKiaZaaM3cUW8QtAWczZRYGtwivxo+bHq0nORfc3JsyN/tuImJZSa4ob8F2BMYGvnKsvqHJHfuqfMf2lZaAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Felipe Master Race\\Desktop\\EconomyUI\\EconomyUI\\EconomyUI.csproj",
+  "projectFilePath": "C:\\Users\\Felipe Master Race\\Documents\\GitHub\\EconomyUI\\EconomyUI\\EconomyUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe Master Race\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Felipe Master Race\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

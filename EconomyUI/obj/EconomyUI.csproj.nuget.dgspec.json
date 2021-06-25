@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe Master Race\\Desktop\\EconomyUI\\EconomyUI\\EconomyUI.csproj": {}
+    "C:\\Users\\Felipe Master Race\\Documents\\GitHub\\EconomyUI\\EconomyUI\\EconomyUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe Master Race\\Desktop\\EconomyUI\\EconomyUI\\EconomyUI.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\Felipe Master Race\\Documents\\GitHub\\EconomyUI\\EconomyUI\\EconomyUI.csproj": {
+      "version": "0.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe Master Race\\Desktop\\EconomyUI\\EconomyUI\\EconomyUI.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe Master Race\\Documents\\GitHub\\EconomyUI\\EconomyUI\\EconomyUI.csproj",
         "projectName": "Feli.EconomyUI",
-        "projectPath": "C:\\Users\\Felipe Master Race\\Desktop\\EconomyUI\\EconomyUI\\EconomyUI.csproj",
+        "projectPath": "C:\\Users\\Felipe Master Race\\Documents\\GitHub\\EconomyUI\\EconomyUI\\EconomyUI.csproj",
         "packagesPath": "C:\\Users\\Felipe Master Race\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe Master Race\\Desktop\\EconomyUI\\EconomyUI\\obj\\",
+        "outputPath": "C:\\Users\\Felipe Master Race\\Documents\\GitHub\\EconomyUI\\EconomyUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Felipe Master Race\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net461"
@@ -61,7 +63,7 @@
               "version": "[3.0.27, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
         }
       }
     }
